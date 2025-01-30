@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
+import { Card, CardHeader, CardTitle, CardContent } from './ui/card';
+import { Tabs, TabsList, TabsTrigger, TabsContent } from './ui/tabs';
 import { Plus, Minus } from 'lucide-react';
 
 const OrgCalculator = () => {
