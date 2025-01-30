@@ -1,4 +1,4 @@
-import OrgCalculator from '@/components/OrgCalculator'
+import OrgCalculator from '../components/OrgCalculator'
 
 export default function Home() {
   return (
